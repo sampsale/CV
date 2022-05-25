@@ -102,3 +102,9 @@ Teollisuustuotannon ohjaus, laitteiden valvonta, logistiikka, laaduntarkkailu, t
     * **Useita projekteja koulusta**: [GitHubistani](https://github.com/sampsale) löytyy useampi projekti, joita tehty koulutehtävinä: Linux-palvelimet kurssi, jossa tarkka raportointi palvelimen asentamisesta Linuxille ja domainin ostamisesta. PersonalTrainer app, joka tehty Reactia ja MUI:ta käyttäen. VisitedCountries, tehty Javalla, tekniikoina SpringBoot ja Thymeleaf. 
 
 
+    <ul>
+  <li>First item</li>
+  <li>Second item</li>
+  <li>Third item</li>
+  <li>Fourth item</li>
+</ul>
