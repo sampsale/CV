@@ -55,7 +55,8 @@ Teollisuustuotannon ohjaus, laitteiden valvonta, logistiikka, laaduntarkkailu, t
 
 ## Tekniikat
 
-:   **JavaScript:**
+:   **JavaScript**
+    
 
 :   **HTML** 
 
