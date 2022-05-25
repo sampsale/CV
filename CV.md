@@ -94,7 +94,7 @@ Extra
 
 * Tehtyjä projekteja GitHubissa
 
-    * Tulevat avaruuslaukaisut ja muuta tietoa avaruudesta; ISS-sijainti kartalla (GoogleMaps API), avaruudessa olevat henkilöt, hakuja eri avaruusaiheisille asioille. : 
+    * Tulevat avaruuslaukaisut ja muuta tietoa avaruudesta; ISS-sijainti kartalla (GoogleMaps API), avaruudessa olevat henkilöt, hakuja eri avaruusaiheisille asioille.  [https://github.com/sampsale/SpaceLaunches](https://github.com/sampsale)
     * 
 
 * Valmistumassa Haaga-Heliasta syksyllä 2022 työharjoittelun ja opinnäytetyön jälkeen. 
