@@ -90,22 +90,12 @@ Teollisuustuotannon ohjaus, laitteiden valvonta, logistiikka, laaduntarkkailu, t
      * Suomi (äidinkieli) 
      * Englanti (sujuva)
 
-* Tehtyjä projekteja [GitHubissa](https://github.com/sampsale)
 
-    * **Space Launches:**  Javascript, HTML, CSS, Bootstrap:  Tulevat avaruuslaukaisut ja muuta tietoa avaruudesta; ISS-sijainti kartalla (GoogleMaps API), avaruudessa olevat henkilöt, hakuja eri avaruusaiheisille asioille. Paljon datan käsittelyä JSON-muodossa ja käyttöliittymän tekemistä. Mobiiliystävällinen. **HUOM**: kaikki API-avaimet eivät ole tallennettu GitHubiin. [Link](https://github.com/sampsale/SpaceLaunches) 
-    
-    * <img src="images/spacelaunches.png" width="500" style="margin:100px"/> 
-    
-    * **Weather-app:** React-native, Expo: Sää-sovellus, joka ilmoittaa sään sijainnissassi tai tallentamissassi sijainneissa valinnan mukaan. Antaa tiettyihin kellonaikoihin push-notifikaation, mutta ikävä kyllä tämä toiminnallisuus on tällä hetkellä buginen.
-    [Link](https://github.com/sampsale/WeatherApp)
-
-    * **Useita projekteja koulusta**: [GitHubistani](https://github.com/sampsale) löytyy useampi projekti, joita tehty koulutehtävinä: Linux-palvelimet kurssi, jossa tarkka raportointi palvelimen asentamisesta Linuxille ja domainin ostamisesta. PersonalTrainer app, joka tehty Reactia ja MUI:ta käyttäen. VisitedCountries, tehty Javalla, tekniikoina SpringBoot ja Thymeleaf. 
 
 ## Tehtyjä projekteja [GitHubissa](https://github.com/sampsale)
 <ul>
   <li><b>Space Launches:</b> Javascript, HTML, CSS, Bootstrap:  Tulevat avaruuslaukaisut ja muuta tietoa avaruudesta; ISS-sijainti kartalla (GoogleMaps API), avaruudessa olevat henkilöt, hakuja eri avaruusaiheisille asioille. Paljon datan käsittelyä JSON-muodossa ja käyttöliittymän tekemistä. Mobiiliystävällinen. <b>HUOM:</b> kaikki API-avaimet eivät ole tallennettu GitHubiin. [Link](https://github.com/sampsale/SpaceLaunches) <a href="https://github.com/sampsale/SpaceLaunches">Link</a>
-  <img src="images/spacelaunches.png" width="500" style="margin:100px"/> <br/>
-  Kuva sivun laukaisuvälilehdeltä
+  <img src="images/spacelaunches.png" width="500" style="margin:100px"/>
   </li>
   <li><b>Weather-app:</b> React-native, Expo: Sää-sovellus, joka ilmoittaa sään sijainnissassi tai tallentamissassi sijainneissa valinnan mukaan. Antaa tiettyihin kellonaikoihin push-notifikaation, mutta ikävä kyllä tämä toiminnallisuus on tällä hetkellä buginen. <a href="https://github.com/sampsale/WeatherApp">Link</a></li>
   <li><b>Useita projekteja koulusta: </b><a href="https://github.com/sampsale">GitHubistani</a> löytyy useampi projekti, joita tehty koulutehtävinä: Linux-palvelimet kurssi, jossa tarkka raportointi palvelimen asentamisesta Linuxille ja domainin ostamisesta. PersonalTrainer app, joka tehty Reactia ja MUI:ta käyttäen. VisitedCountries, tehty Javalla, tekniikoina SpringBoot ja Thymeleaf. </li>
