@@ -103,7 +103,7 @@ Teollisuustuotannon ohjaus, laitteiden valvonta, logistiikka, laaduntarkkailu, t
 
 
 <ul>
-  <li><b>Space Launches:</b> Javascript, HTML, CSS, Bootstrap:  Tulevat avaruuslaukaisut ja muuta tietoa avaruudesta; ISS-sijainti kartalla (GoogleMaps API), avaruudessa olevat henkilöt, hakuja eri avaruusaiheisille asioille. Paljon datan käsittelyä JSON-muodossa ja käyttöliittymän tekemistä. Mobiiliystävällinen. **HUOM**: kaikki API-avaimet eivät ole tallennettu GitHubiin. [Link](https://github.com/sampsale/SpaceLaunches) <a href="https://github.com/sampsale/SpaceLaunches">Link</a>
+  <li><b>Space Launches:</b> Javascript, HTML, CSS, Bootstrap:  Tulevat avaruuslaukaisut ja muuta tietoa avaruudesta; ISS-sijainti kartalla (GoogleMaps API), avaruudessa olevat henkilöt, hakuja eri avaruusaiheisille asioille. Paljon datan käsittelyä JSON-muodossa ja käyttöliittymän tekemistä. Mobiiliystävällinen. <b>HUOM:</b> kaikki API-avaimet eivät ole tallennettu GitHubiin. [Link](https://github.com/sampsale/SpaceLaunches) <a href="https://github.com/sampsale/SpaceLaunches">Link</a>
   <img src="images/spacelaunches.png" width="500" style="margin:100px"/> <br/>
   Kuva sivun laukaisuvälilehdeltä
   </li>
