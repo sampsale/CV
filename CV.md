@@ -89,7 +89,10 @@ Teollisuustuotannon ohjaus, laitteiden valvonta, logistiikka, laaduntarkkailu, t
 
      * Suomi (äidinkieli) 
      * Englanti (sujuva)
-![Image](images/spacelaunches.png "bastet")
+     <div  style="margin:200px">
+     ![Image](images/spacelaunches.png "bastet")
+     </div>
+
 * Tehtyjä projekteja [GitHubissa](https://github.com/sampsale)
 
     * **Space Launches:**  Javascript, HTML, CSS, Bootstrap:  Tulevat avaruuslaukaisut ja muuta tietoa avaruudesta; ISS-sijainti kartalla (GoogleMaps API), avaruudessa olevat henkilöt, hakuja eri avaruusaiheisille asioille. Paljon datan käsittelyä JSON-muodossa ja käyttöliittymän tekemistä. Mobiiliystävällinen. **HUOM**: kaikki API-avaimet eivät ole tallennettu GitHubiin. [Link](https://github.com/sampsale/SpaceLaunches) . 
