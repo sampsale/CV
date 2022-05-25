@@ -90,7 +90,7 @@ Teollisuustuotannon ohjaus, laitteiden valvonta, logistiikka, laaduntarkkailu, t
      * Suomi (äidinkieli) 
      * Englanti (sujuva)
      <div  style="margin:200px">
-     ![Image](images/spacelaunches.png "bastet")
+     <img src="images/spacelaunches.png" width="500" style="margin:200px"/>
      </div>
 
 * Tehtyjä projekteja [GitHubissa](https://github.com/sampsale)
