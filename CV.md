@@ -92,7 +92,7 @@ Teollisuustuotannon ohjaus, laitteiden valvonta, logistiikka, laaduntarkkailu, t
 
 * Tehtyjä projekteja [GitHubissa](https://github.com/sampsale)
 
-    * **Space Launches:**  Javascript, HTML, CSS, Bootstrap:  Tulevat avaruuslaukaisut ja muuta tietoa avaruudesta; ISS-sijainti kartalla (GoogleMaps API), avaruudessa olevat henkilöt, hakuja eri avaruusaiheisille asioille. Paljon datan käsittelyä JSON-muodossa ja käyttöliittymän tekemistä. Mobiiliystävällinen. **HUOM**: kaikki API-avaimet eivät ole tallennettu GitHubiin. [Link](https://github.com/sampsale/SpaceLaunches)
+    * **Space Launches:**  Javascript, HTML, CSS, Bootstrap:  Tulevat avaruuslaukaisut ja muuta tietoa avaruudesta; ISS-sijainti kartalla (GoogleMaps API), avaruudessa olevat henkilöt, hakuja eri avaruusaiheisille asioille. Paljon datan käsittelyä JSON-muodossa ja käyttöliittymän tekemistä. Mobiiliystävällinen. **HUOM**: kaikki API-avaimet eivät ole tallennettu GitHubiin. [Link](https://github.com/sampsale/SpaceLaunches) 
     
     * <img src="images/spacelaunches.png" width="500" style="margin:100px"/> 
     
@@ -103,10 +103,11 @@ Teollisuustuotannon ohjaus, laitteiden valvonta, logistiikka, laaduntarkkailu, t
 
 
     <ul>
-  <li><b>Space Launches:</b>  Javascript, HTML, CSS, Bootstrap:  Tulevat avaruuslaukaisut ja muuta tietoa avaruudesta; ISS-sijainti kartalla (GoogleMaps API), avaruudessa olevat henkilöt, hakuja eri avaruusaiheisille asioille. Paljon datan käsittelyä JSON-muodossa ja käyttöliittymän tekemistä. Mobiiliystävällinen. **HUOM**: kaikki API-avaimet eivät ole tallennettu GitHubiin. [Link](https://github.com/sampsale/SpaceLaunches)
+  <li><b>Space Launches:</b> Javascript, HTML, CSS, Bootstrap:  Tulevat avaruuslaukaisut ja muuta tietoa avaruudesta; ISS-sijainti kartalla (GoogleMaps API), avaruudessa olevat henkilöt, hakuja eri avaruusaiheisille asioille. Paljon datan käsittelyä JSON-muodossa ja käyttöliittymän tekemistä. Mobiiliystävällinen. **HUOM**: kaikki API-avaimet eivät ole tallennettu GitHubiin. [Link](https://github.com/sampsale/SpaceLaunches) <a href="https://github.com/sampsale/SpaceLaunches">Link</a>
   <img src="images/spacelaunches.png" width="500" style="margin:100px"/> 
+  Kuva sivun laukaisuvälilehdeltä
   </li>
-  <li>Second item</li>
-  <li>Third item</li>
+  <li><b>Weather-app:</b> React-native, Expo: Sää-sovellus, joka ilmoittaa sään sijainnissassi tai tallentamissassi sijainneissa valinnan mukaan. Antaa tiettyihin kellonaikoihin push-notifikaation, mutta ikävä kyllä tämä toiminnallisuus on tällä hetkellä buginen. <a href="https://github.com/sampsale/WeatherApp">Link</a></li>
+  <li><b>Useita projekteja koulusta: </b><a href="https://github.com/sampsale">GitHubistani</a> löytyy useampi projekti, joita tehty koulutehtävinä: Linux-palvelimet kurssi, jossa tarkka raportointi palvelimen asentamisesta Linuxille ja domainin ostamisesta. PersonalTrainer app, joka tehty Reactia ja MUI:ta käyttäen. VisitedCountries, tehty Javalla, tekniikoina SpringBoot ja Thymeleaf. </li>
   <li>Fourth item</li>
 </ul>
