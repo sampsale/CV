@@ -29,29 +29,30 @@ Koulutus
 ## Työkokemus
 
 
-**Gigantti**
+**Gigantti** 08/2017-09/2019
 
 Asiakaspalvelu ja myynti (chat/puhelin/sähköposti/some) sekä yksityis- että b2b-asiakkaille, kirjanpito, vakuutusvaihdot, logistiikan ohjaus, yhteydenpito konsernin sisällä (Suomi + muu Eurooppa) ja yhteistyökumppanien kanssa (valmistajat, kuljetus- ja huoltoliikkeet, yms)  
 
-**Yleisradio**
+**Yleisradio** 04/2012-05/2012, 02/2021-04/2021, 06/2021-08/2021, 03/2022-06/2022 (osa-aika)
 
 2012: Nettimateriaalin luokittelu, editointi ja syöttäminen sivuille. 2021: Kielten oppimisten sivujen ja nettitehtävien korjaamista ja siirtämistä uuteen formaattiin. 2022: Digitreenien päivittäminen
 
 ### Muu työkokemus
 
 **Kansaneläkelaitos:** 02/2020-05/2020:
-Etuuskäsittelijä
+Etuuskäsittelijä -- 
 Tulevien hakemusten ja muun postin avaaminen, lajittelu ja ohjaaminen oikealle osastolle
 
 **Verohallinto:** 06/2017-07/2017:
-Tallentaja
+Tallentaja -- 
 Veroilmoitusten digitalisointi
 
 **Posti:** 12/2015, 03/2016, 06/2016-08/2016 (osa-aika):
-Lajittelija
+Lajittelija -- 
 Postinumeroiden lukeminen ja tallentaminen koneelle, lajittelua	
 
 **Valio:** 07/2013-08/2013, 03/2014-08/2014 ja 05/2015-08/2015:
+Prosessivastaava --
 Teollisuustuotannon ohjaus, laitteiden valvonta, logistiikka, laaduntarkkailu, toimintaohjeiden laatiminen, perehdyttäminen
 
 ## Tekniikat
@@ -78,8 +79,7 @@ Teollisuustuotannon ohjaus, laitteiden valvonta, logistiikka, laaduntarkkailu, t
     Perusteet
 
 
-Extra 
-----------------------------------------
+## Extra 
 
 * Valmistumassa Haaga-Heliasta syksyllä 2022 työharjoittelun ja opinnäytetyön jälkeen. 
 
