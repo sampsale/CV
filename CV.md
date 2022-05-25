@@ -33,7 +33,7 @@ Koulutus
 
 Asiakaspalvelu ja myynti (chat/puhelin/sähköposti/some) sekä yksityis- että b2b-asiakkaille, kirjanpito, vakuutusvaihdot, logistiikan ohjaus, yhteydenpito konsernin sisällä (Suomi + muu Eurooppa) ja yhteistyökumppanien kanssa (valmistajat, kuljetus- ja huoltoliikkeet, yms)  
 
-**Yleisradio** 04/2012-05/2012, 02/2021-04/2021, 06/2021-08/2021, 03/2022-06/2022 (osa-aika)
+**Yleisradio** 02/2021-04/2021, 06/2021-08/2021, 03/2022-06/2022 (osa-aika)
 
 2012: Nettimateriaalin luokittelu, editointi ja syöttäminen sivuille. 2021: Kielten oppimisten sivujen ja nettitehtävien korjaamista ja siirtämistä uuteen formaattiin. 2022: Digitreenien päivittäminen
 
