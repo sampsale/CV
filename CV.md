@@ -14,7 +14,7 @@ Koulutus
 :   **Haaga-Helia University of Applied Sciences, IT-Tradenomi**: 2016-2017, 2020-2022 (odotettu)
 
     Oleellista kurssien sisältöä
-    1. Ohjelmoinnin perusteet (Java)
+    1. Ohjelmoinnin perusteet (Java ja JS)
     2. Käyttöliittymän suunnittelu (React)
     3. Front-end (React)
     4. Mobiiliohjelmointi (React-native)
