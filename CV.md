@@ -90,10 +90,10 @@ Extra
 
 * Tehtyjä projekteja GitHubissa
 
-    * Javascript, HTML, CSS, Bootstrap:  Tulevat avaruuslaukaisut ja muuta tietoa avaruudesta; ISS-sijainti kartalla (GoogleMaps API), avaruudessa olevat henkilöt, hakuja eri avaruusaiheisille asioille. Paljon datan käsittelyä JSON-muodossa ja käyttöliittymän tekemistä. Mobiiliystävällinen. [Link](https://github.com/sampsale/SpaceLaunches) . HUOM: API-avaimet piilotettu
+    * **Space Launches:**  Javascript, HTML, CSS, Bootstrap:  Tulevat avaruuslaukaisut ja muuta tietoa avaruudesta; ISS-sijainti kartalla (GoogleMaps API), avaruudessa olevat henkilöt, hakuja eri avaruusaiheisille asioille. Paljon datan käsittelyä JSON-muodossa ja käyttöliittymän tekemistä. Mobiiliystävällinen. [Link](https://github.com/sampsale/SpaceLaunches) . HUOM: API-avaimet piilotettu
     <img src="spacelaunches.png" width="600"/>
-    
-    * React-native, Expo: Sää-sovellus, joka ilmoittaa sään sijainnissassi tai tallentamissassi sijainneissa valinnan mukaan. Antaa tiettyihin kellonaikoihin push-notifikaation, mutta ikävä kyllä tämä toiminnallisuus on tällä hetkellä buginen.
+
+    * **Weather-app:** React-native, Expo: Sää-sovellus, joka ilmoittaa sään sijainnissassi tai tallentamissassi sijainneissa valinnan mukaan. Antaa tiettyihin kellonaikoihin push-notifikaation, mutta ikävä kyllä tämä toiminnallisuus on tällä hetkellä buginen.
     [Link](https://github.com/sampsale/WeatherApp)
 
 * Valmistumassa Haaga-Heliasta syksyllä 2022 työharjoittelun ja opinnäytetyön jälkeen. 
