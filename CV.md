@@ -1,12 +1,7 @@
 Sampsa Leikas
 ============
 
--------------------     ----------------------------
-Helsinki                
--------------------     ----------------------------
-
 Github: [https://github.com/sampsale](https://github.com/sampsale)
-
 
 Email: sampsaleikas@gmail.com 
 
