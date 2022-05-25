@@ -89,7 +89,7 @@ Teollisuustuotannon ohjaus, laitteiden valvonta, logistiikka, laaduntarkkailu, t
 
      * Suomi (äidinkieli) 
      * Englanti (sujuva)
-
+![Image](images/spacelaunches.png "bastet")
 * Tehtyjä projekteja [GitHubissa](https://github.com/sampsale)
 
     * **Space Launches:**  Javascript, HTML, CSS, Bootstrap:  Tulevat avaruuslaukaisut ja muuta tietoa avaruudesta; ISS-sijainti kartalla (GoogleMaps API), avaruudessa olevat henkilöt, hakuja eri avaruusaiheisille asioille. Paljon datan käsittelyä JSON-muodossa ja käyttöliittymän tekemistä. Mobiiliystävällinen. **HUOM**: kaikki API-avaimet eivät ole tallennettu GitHubiin. [Link](https://github.com/sampsale/SpaceLaunches) . 
@@ -97,7 +97,7 @@ Teollisuustuotannon ohjaus, laitteiden valvonta, logistiikka, laaduntarkkailu, t
         <img src="images/spacelaunches.png" width="500" style="margin:200px"/>
 
     <div  style="margin:200px">
-    ![Image](images/spacelaunches.png, "image")
+    ![Image](images/spacelaunches.png "image")
     </div>
 
     * **Weather-app:** React-native, Expo: Sää-sovellus, joka ilmoittaa sään sijainnissassi tai tallentamissassi sijainneissa valinnan mukaan. Antaa tiettyihin kellonaikoihin push-notifikaation, mutta ikävä kyllä tämä toiminnallisuus on tällä hetkellä buginen.
