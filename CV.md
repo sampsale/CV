@@ -60,21 +60,21 @@ Teollisuustuotannon ohjaus, laitteiden valvonta, logistiikka, laaduntarkkailu, t
 
 ## Tekniikat
 
-:   **JavaScript**
-    
-:   **HTML** 
+:   **JavaScript:**
+    Sujuva. 
+:   **HTML:** 
 
-:   **CSS**
+:   **CSS:**
 
-:   **SQL**
+:   **SQL:**
 
-:   **Python** 
+:   **Python:** 
 
-:   **Java**
+:   **Java:**
 
-:   **HTML** 
+:   **HTML:** 
 
-:   **Git**
+:   **Git:**
 
 
 Extra 
@@ -87,4 +87,4 @@ Extra
 
 * Tehtyjä projekteja GitHubissa
 
-* Other sort of impressive-sounding thing you did
+* Valmistumassa Haaga-Heliasta syksyllä 2022 työharjoittelun ja opinnäytetyön jälkeen. 
