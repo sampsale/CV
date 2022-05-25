@@ -16,12 +16,12 @@ Koulutus
 ---------
 
     
-:   **Haaga-Helia University of Applied Sciences, IT-Tradenomi**; 2016-2017, 2020-2022 (odotettu)
+:   **Haaga-Helia University of Applied Sciences, IT-Tradenomi**: 2016-2017, 2020-2022 (odotettu)
 
     Relevantit kurssit: Ohjelmoinnin perusteet, Käyttöliittymän suunnittelu, Front-end (react), Mobiiliohjelmointi (react-native), Palvelinohjelmointi (springboot), Blender 3D perusteet, relaatiotietokannat ja SQL, ohjelmistoprojekti tiimissä (React, SQL, SpringBoot)
 
     
-:   **Sotungin Lukio**;
+:   **Sotungin Lukio**:
     2014
 
 ## Työkokemus
@@ -71,7 +71,7 @@ Teollisuustuotannon ohjaus, laitteiden valvonta, logistiikka, laaduntarkkailu, t
 :   **Git**
 
 
-Extra Section, Call it Whatever You Want
+Extra 
 ----------------------------------------
 
 * Ihmiskielet:
