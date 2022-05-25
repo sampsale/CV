@@ -38,26 +38,25 @@ Asiakaspalvelu ja myynti (chat/puhelin/sähköposti/some) sekä yksityis- että 
 
 ### Muu työkokemus
 
-**Kansaneläkelaitos** 02/2020-05/2020:
+**Kansaneläkelaitos:** 02/2020-05/2020:
 Etuuskäsittelijä
 Tulevien hakemusten ja muun postin avaaminen, lajittelu ja ohjaaminen oikealle osastolle
 
-**Verohallinto** 06/2017-07/2017:
+**Verohallinto:** 06/2017-07/2017:
 Tallentaja
 Veroilmoitusten digitalisointi
 
-**Posti** 12/2015, 03/2016, 06/2016-08/2016 (osa-aika):
+**Posti:** 12/2015, 03/2016, 06/2016-08/2016 (osa-aika):
 Lajittelija
 Postinumeroiden lukeminen ja tallentaminen koneelle, lajittelua	
 
-**Valio** 07/2013-08/2013, 03/2014-08/2014 ja 05/2015-08/2015:
+**Valio:** 07/2013-08/2013, 03/2014-08/2014 ja 05/2015-08/2015:
 Teollisuustuotannon ohjaus, laitteiden valvonta, logistiikka, laaduntarkkailu, toimintaohjeiden laatiminen, perehdyttäminen
 
 ## Tekniikat
 
 :   **JavaScript**
     
-
 :   **HTML** 
 
 :   **CSS**
