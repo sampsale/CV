@@ -81,9 +81,7 @@ Teollisuustuotannon ohjaus, laitteiden valvonta, logistiikka, laaduntarkkailu, t
 
 ## Extra 
 
-* Valmistumassa Haaga-Heliasta syksyllä 2022 työharjoittelun ja opinnäytetyön jälkeen. 
-
-* Erityiset kiinnostuksenkohteet ja intohimot: APIt, datan parserointi, koodin optimointi,  
+* Erityiset kiinnostuksenkohteet ja intohimot: APIt, datan parserointi, koodin optimointi.
 
 * Ihmiskielet:
 
