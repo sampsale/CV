@@ -11,12 +11,13 @@ Koulutus
 ---------
 
     
-:   **Haaga-Helia University of Applied Sciences, IT-Tradenomi**: 2016-2017, 2020-2022 (odotettu)
+  **Haaga-Helia University of Applied Sciences, IT-Tradenomi**: 2016-2017, 2020-2022 (odotettu)
+
 
     1. Ohjelmoinnin perusteet
     2. Käyttöliittymän suunnittelu
     
-    - Relevantit kurssit: Ohjelmoinnin perusteet, Käyttöliittymän suunnittelu, Front-end (react), Mobiiliohjelmointi (react-native), Palvelinohjelmointi (springboot), Blender perusteet, relaatiotietokannat ja SQL, ohjelmistoprojekti tiimissä (React, SQL, SpringBoot), Basics of AI (data parsing, power BI), Linux palvelimt
+    - Relevantit kurssit: Ohjelmoinnin perusteet, Käyttöliittymän suunnittelu, Front-end (react), Mobiiliohjelmointi (react-native), Palvelinohjelmointi (springboot), Blender perusteet, relaatiotietokannat ja SQL, ohjelmistoprojekti tiimissä (React, SQL, SpringBoot), Basics of AI (data parsing, power BI), Linux palvelit
 
     
 :   **Sotungin Lukio**:
