@@ -93,7 +93,7 @@ Teollisuustuotannon ohjaus, laitteiden valvonta, logistiikka, laaduntarkkailu, t
 * Tehtyjä projekteja [GitHubissa](https://github.com/sampsale)
 
     * **Space Launches:**  Javascript, HTML, CSS, Bootstrap:  Tulevat avaruuslaukaisut ja muuta tietoa avaruudesta; ISS-sijainti kartalla (GoogleMaps API), avaruudessa olevat henkilöt, hakuja eri avaruusaiheisille asioille. Paljon datan käsittelyä JSON-muodossa ja käyttöliittymän tekemistä. Mobiiliystävällinen. **HUOM**: kaikki API-avaimet eivät ole tallennettu GitHubiin. [Link](https://github.com/sampsale/SpaceLaunches) . 
-    <img src="spacelaunches.png" width="600" style="margin-left: 100px"/>
+    <img src="spacelaunches.png" width="600" style="margin-left: 200px"/>
 
     * **Weather-app:** React-native, Expo: Sää-sovellus, joka ilmoittaa sään sijainnissassi tai tallentamissassi sijainneissa valinnan mukaan. Antaa tiettyihin kellonaikoihin push-notifikaation, mutta ikävä kyllä tämä toiminnallisuus on tällä hetkellä buginen.
     [Link](https://github.com/sampsale/WeatherApp)
