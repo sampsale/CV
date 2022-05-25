@@ -95,7 +95,7 @@ Extra
 * Tehtyjä projekteja GitHubissa
 
     * Javascript, HTML, CSS, Bootstrap,:  Tulevat avaruuslaukaisut ja muuta tietoa avaruudesta; ISS-sijainti kartalla (GoogleMaps API), avaruudessa olevat henkilöt, hakuja eri avaruusaiheisille asioille. Paljon datan käsittelyä JSON-muodossa ja käyttöliittymän tekemistä. Mobiiliystävällinen. [Link](https://github.com/sampsale/SpaceLaunches)
-    <img src="spacelaunches.png" width="200"/>
+    <img src="spacelaunches.png" width="800"/>
     * 
 
 * Valmistumassa Haaga-Heliasta syksyllä 2022 työharjoittelun ja opinnäytetyön jälkeen. 
