@@ -16,12 +16,13 @@ Koulutus
 ---------
 
     
-:   **Haaga-Helia University of Applied Sciences, Programming**; 
-    2016-2017, 2020-2022 (expected)
+:   **Haaga-Helia University of Applied Sciences, IT-Tradenomi**; 2016-2017, 2020-2022 (odotettu)
+
+    Relevantit kurssit: Ohjelmoinnin perusteet, Käyttöliittymän suunnittelu, Front-end (react), Mobiiliohjelmointi (react-native), Palvelinohjelmointi (springboot), Blender 3D perusteet, relaatiotietokannat ja SQL, ohjelmistoprojekti tiimissä (React, SQL, SpringBoot)
 
     
 :   **Sotungin Lukio**;
-2014
+    2014
 
 ## Työkokemus
 
@@ -35,8 +36,6 @@ Asiakaspalvelu ja myynti (chat/puhelin/sähköposti/some) sekä yksityis- että 
 2012: Nettimateriaalin luokittelu, editointi ja syöttäminen sivuille. 2021: Kielten oppimisten sivujen ja nettitehtävien korjaamista ja siirtämistä uuteen formaattiin. 2022: Digitreenien päivittäminen
 
 ### Muu työkokemus
-
-
 
 **Kansaneläkelaitos** 02/2020-05/2020:
 Etuuskäsittelijä
@@ -71,20 +70,6 @@ Teollisuustuotannon ohjaus, laitteiden valvonta, logistiikka, laaduntarkkailu, t
 
 :   **Git**
 
-My Cool Side Project
-:   For items which don't have a clear time ordering, a definition
-    list can be used to have named items.
-
-    * These items can also contain lists, but you need to mind the
-      indentation levels in the markdown source.
-    * Second item.
-
-
-Programming Languages and other technical skills
-
-
-
-[ref]: https://github.com/githubuser/superlongprojectname
 
 Extra Section, Call it Whatever You Want
 ----------------------------------------
@@ -94,6 +79,6 @@ Extra Section, Call it Whatever You Want
      * Suomi (äidinkieli) 
      * Englanti (sujuva)
 
-* Random tidbit
+* Tehtyjä projekteja GitHubissa
 
 * Other sort of impressive-sounding thing you did
