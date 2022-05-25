@@ -61,10 +61,10 @@ Teollisuustuotannon ohjaus, laitteiden valvonta, logistiikka, laaduntarkkailu, t
 ## Tekniikat
 
 :   **JavaScript:**
-    Sujuva 
+    Sujuva. Tekniikoita: usia pieniä kirjastoja, D3, React
 
 :   **HTML:** 
-    Sujuva
+    Sujuva. Tekniikoita: BootStrap
 
 :   **CSS:**
     Sujuva
@@ -77,7 +77,7 @@ Teollisuustuotannon ohjaus, laitteiden valvonta, logistiikka, laaduntarkkailu, t
 
 :   **Java:**
     Perusteet
-    
+
 :   **Git:**
     Perusteet
 
@@ -85,11 +85,16 @@ Teollisuustuotannon ohjaus, laitteiden valvonta, logistiikka, laaduntarkkailu, t
 Extra 
 ----------------------------------------
 
+* Erityiset kiinnostuksenkohteet ja intohimot: APIt, datan parserointi 
+
 * Ihmiskielet:
 
      * Suomi (äidinkieli) 
      * Englanti (sujuva)
 
 * Tehtyjä projekteja GitHubissa
+
+    * Tulevat avaruuslaukaisut ja muuta tietoa avaruudesta; ISS-sijainti kartalla (GoogleMaps API), avaruudessa olevat henkilöt, hakuja eri avaruusaiheisille asioille. : 
+    * 
 
 * Valmistumassa Haaga-Heliasta syksyllä 2022 työharjoittelun ja opinnäytetyön jälkeen. 
