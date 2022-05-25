@@ -61,20 +61,19 @@ Teollisuustuotannon ohjaus, laitteiden valvonta, logistiikka, laaduntarkkailu, t
 ## Tekniikat
 
 :   **JavaScript:**
-    Sujuva. 
+    Sujuva 
 :   **HTML:** 
-
+    Sujuva
 :   **CSS:**
-
+    Sujuva
 :   **SQL:**
-
+    Perusteet
 :   **Python:** 
-
+    Perusteet
 :   **Java:**
-
-:   **HTML:** 
-
+    Perusteet
 :   **Git:**
+    Perusteet
 
 
 Extra 
