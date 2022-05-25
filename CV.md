@@ -81,6 +81,8 @@ Teollisuustuotannon ohjaus, laitteiden valvonta, logistiikka, laaduntarkkailu, t
 Extra 
 ----------------------------------------
 
+* Valmistumassa Haaga-Heliasta syksyllä 2022 työharjoittelun ja opinnäytetyön jälkeen. 
+
 * Erityiset kiinnostuksenkohteet ja intohimot: APIt, datan parserointi, koodin optimointi,  
 
 * Ihmiskielet:
@@ -96,4 +98,4 @@ Extra
     * **Weather-app:** React-native, Expo: Sää-sovellus, joka ilmoittaa sään sijainnissassi tai tallentamissassi sijainneissa valinnan mukaan. Antaa tiettyihin kellonaikoihin push-notifikaation, mutta ikävä kyllä tämä toiminnallisuus on tällä hetkellä buginen.
     [Link](https://github.com/sampsale/WeatherApp)
 
-* Valmistumassa Haaga-Heliasta syksyllä 2022 työharjoittelun ja opinnäytetyön jälkeen. 
+
