@@ -81,7 +81,7 @@ Teollisuustuotannon ohjaus, laitteiden valvonta, logistiikka, laaduntarkkailu, t
 
 ## Extra 
 
-* Erityiset kiinnostuksenkohteet ja intohimot: APIt, datan parserointi, koodin optimointi.
+* Erityiset kiinnostuksenkohteet: APIt, datan parserointi, optimointi, tietokannat. 
 
 * Ihmiskielet:
 
