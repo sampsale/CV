@@ -35,7 +35,7 @@ Asiakaspalvelu ja myynti (chat/puhelin/sähköposti/some) sekä yksityis- että 
 
 **Yleisradio** 02/2021-04/2021, 06/2021-08/2021, 03/2022-06/2022 (osa-aika)
 
-2012: Nettimateriaalin luokittelu, editointi ja syöttäminen sivuille. 2021: Kielten oppimisten sivujen ja nettitehtävien korjaamista ja siirtämistä uuteen formaattiin. 2022: Digitreenien päivittäminen
+2012: Nettimateriaalin luokittelu, editointi ja syöttäminen sivuille. Sosiaalisen median moderointi (Twitter, Instagram, Facebook).  2021: Kielten oppimisten sivujen ja nettitehtävien korjaamista ja siirtämistä uuteen formaattiin. 2022: Digitreenien päivittäminen
 
 ### Muu työkokemus
 
