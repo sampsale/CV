@@ -11,7 +11,7 @@ Koulutus
 ---------
 
     
-:   **Haaga-Helia University of Applied Sciences, IT-Tradenomi**: 2016-2017, 2020-2022 (valmistuminen syksy 2022)
+:   **Haaga-Helia University of Applied Sciences, IT-Tradenomi**: 2016-2017, 2020-2022
 
     Oleellista kurssien sisältöä
     1. Ohjelmoinnin perusteet (Java ja JS)
@@ -24,6 +24,11 @@ Koulutus
     8. Ohjelmistoprojekti tiimissä (React, SQL, SpringBoot)
     9. Basics of AI (Data parsing, Power BI)
     10. Linux palvelimet (Linux perusteet, domain, palvelimet)
+    11. Windows palvelimet (domain, palvelimet)
+    12. Python Programming (Python perusteet)
+    13. AI with Python (Regressiomallit, yleinen AI)
+    14. Microsoft Azure Fundamentals (AWS)
+
 
 
 ## Työkokemus
@@ -61,16 +66,16 @@ Teollisuustuotannon ohjaus, laitteiden valvonta, logistiikka, laaduntarkkailu, t
     Sujuva. Tekniikoita: useita pieniä kirjastoja, D3, React
 
 :   **HTML:** 
-    Sujuva. Tekniikoita: BootStrap
+    Sujuva
 
 :   **CSS:**
-    Sujuva
+    Sujuva. Tekniikoita: BootStrap
 
 :   **SQL:**
     Perusteet
 
 :   **Python:** 
-    Perusteet
+    Sujuva. Tekniikoita: useita pieniä kirjastoja, Django, Pygame, Matplotlib
 
 :   **Java:**
     Perusteet
@@ -81,7 +86,7 @@ Teollisuustuotannon ohjaus, laitteiden valvonta, logistiikka, laaduntarkkailu, t
 
 ## Extra 
 
-* Erityiset kiinnostuksenkohteet: APIt, datan parserointi, optimointi, tietokannat. 
+* Erityiset kiinnostuksenkohteet: APIt, big data, optimointi, tietokannat.  
 
 * Ihmiskielet:
 
@@ -97,5 +102,7 @@ Teollisuustuotannon ohjaus, laitteiden valvonta, logistiikka, laaduntarkkailu, t
   </li>
   <li><b>Weather-app:</b> React-native, Expo: Sää-sovellus, joka ilmoittaa sään sijainnissassi tai tallentamissassi sijainneissa valinnan mukaan. Antaa tiettyihin kellonaikoihin push-notifikaation, mutta ikävä kyllä tämä toiminnallisuus on tällä hetkellä buginen. <a href="https://github.com/sampsale/WeatherApp">Link</a></li>
   <li><b>Useita projekteja koulusta: </b><a href="https://github.com/sampsale">GitHubistani</a> löytyy useampi projekti, joita tehty koulutehtävinä: Linux-palvelimet kurssi, jossa tarkka raportointi palvelimen asentamisesta Linuxille ja domainin ostamisesta. PersonalTrainer app, joka tehty Reactia ja MUI:ta käyttäen. VisitedCountries, tehty Javalla, tekniikoina SpringBoot ja Thymeleaf. </li>
+  <li><b>Itsenäisesti opiskeltuja juttuja: </b><a href="https://github.com/sampsale/PythonCrashCourse">Python Crash Course</a>, <a href="https://fullstackopen.com/">FullStackOpen</a> ja useita satunnaisia projekteja (web scraperit, D3, yms). 
+  </li>
  
 </ul>
