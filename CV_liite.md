@@ -98,7 +98,6 @@ Teollisuustuotannon ohjaus, laitteiden valvonta, logistiikka, laaduntarkkailu, t
   </li>
   <li><b>Weather-app:</b> React-native, Expo: Sää-sovellus, joka ilmoittaa sään sijainnissassi tai tallentamissassi sijainneissa valinnan mukaan. Antaa tiettyihin kellonaikoihin push-notifikaation, mutta ikävä kyllä tämä toiminnallisuus on tällä hetkellä buginen. <a href="https://github.com/sampsale/WeatherApp">Link</a></li>
   <li><b>Useita projekteja koulusta: </b><a href="https://github.com/sampsale">GitHubistani</a> löytyy useampi projekti, joita tehty koulutehtävinä: Linux-palvelimet kurssi, jossa tarkka raportointi palvelimen asentamisesta Linuxille ja domainin ostamisesta. PersonalTrainer app, joka tehty Reactia ja MUI:ta käyttäen. VisitedCountries, tehty Javalla, tekniikoina SpringBoot ja Thymeleaf. </li>
-  <li><b>Itsenäisesti opiskeltuja juttuja: </b><a href="https://github.com/sampsale/PythonCrashCourse">Python Crash Course</a>, <a href="https://fullstackopen.com/">FullStackOpen</a> ja useita satunnaisia projekteja (web scraperit, D3, yms). 
-  </li>
- 
+  <li><b>Itsenäisesti opiskeltuja juttuja: </b><a href="https://github.com/sampsale/PythonCrashCourse">Python Crash Course</a>, <a href="https://fullstackopen.com/">FullStackOpen</a>(työn alla) ja useita satunnaisia projekteja (web scraperit, D3, yms). Suurin osa kaikista repoistani on piilotettuna joko puutteellisen dokumentaation tai keskeneräisyyden vuoksi. 
+  </li> 
 </ul>
