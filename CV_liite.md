@@ -1,12 +1,6 @@
 Sampsa Leikas
 ============
 
-Github: [https://github.com/sampsale](https://github.com/sampsale)
-
-Email: sampsaleikas@gmail.com 
-
-Phone: 0404111432
-
 Koulutus
 ---------
 
@@ -83,6 +77,8 @@ Teollisuustuotannon ohjaus, laitteiden valvonta, logistiikka, laaduntarkkailu, t
 :   **Git:**
     Perusteet
 
+:   **Linux:**
+    Debian, perusteet
 
 ## Extra 
 
