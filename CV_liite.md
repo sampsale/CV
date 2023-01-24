@@ -56,29 +56,29 @@ Teollisuustuotannon ohjaus, laitteiden valvonta, logistiikka, laaduntarkkailu, t
 
 ## Tekniikat
 
-:   **JavaScript:**
-    Sujuva. Tekniikoita: useita pieniä kirjastoja, D3, React
+**JavaScript:**
+Sujuva. Tekniikoita: useita pieniä kirjastoja, D3, React
 
-:   **HTML:** 
-    Sujuva
+**HTML:** 
+Sujuva
 
-:   **CSS:**
-    Sujuva. Tekniikoita: BootStrap
+**CSS:**
+Sujuva. Tekniikoita: BootStrap
 
-:   **SQL:**
-    Perusteet
+**SQL:**
+Perusteet
 
-:   **Python:** 
-    Sujuva. Tekniikoita: useita pieniä kirjastoja, Django, Pygame, Matplotlib
+**Python:** 
+Sujuva. Tekniikoita: useita pieniä kirjastoja, Django, Pygame, Matplotlib
 
-:   **Java:**
-    Perusteet
+**Java:**
+Perusteet
 
-:   **Git:**
-    Perusteet
+**Git:**
+Perusteet
 
-:   **Linux:**
-    Debian, perusteet
+**Linux:**
+Debian, perusteet
 
 ## Extra 
 
