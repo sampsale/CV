@@ -20,7 +20,7 @@ Education
     10. Linux server (Linux basics, domain, servers)
     11. Windows server (Domain, servers)
     12. Python Programming (Python basics)
-    13. AI with Python (Regressiomallit, basics of AI)
+    13. AI with Python (Regression models, basics of AI)
     14. Microsoft Azure Fundamentals (AWS)
 
 
