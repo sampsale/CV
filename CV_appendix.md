@@ -41,18 +41,18 @@ Customer service and sales (chat/phone/email/social media) to B2C- and B2B-custo
 ### Other experience
 
 **Kansaneläkelaitos:** 02/2020-05/2020:
-Benefits officer  -- 
+Benefits Officer  -- 
 Opening, sorting, and redirecting incoming applications and other mail
 
 **Verohallinto:** 06/2017-07/2017:
 Digitization of tax returns
 
 **Posti:** 12/2015, 03/2016, 06/2016-08/2016 (part-time):
-Sorter -- 
+Mail Sorter -- 
 Digital and physical sorting of incoming mail
 
 **Valio:** 07/2013-08/2013, 03/2014-08/2014 ja 05/2015-08/2015:
-Process worker --
+Process Worker --
 Oversight and maintenance of industrial machinery, logistics, quality control, documentation
 
 ## Techniques
