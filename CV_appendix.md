@@ -30,7 +30,7 @@ Education
 
 **Gigantti** 08/2017-09/2019
 
-Customer service and sales (chat/phone/email/social media) to B2C- and B2B-customers, bookkeeping, insurance exchanges, logistical oversight, internal communications within the company (Finland + Eurpe) and with partners (manufacturers, delivery- and maintenance companies, etc) 
+Customer service and sales (chat/phone/email/social media) to B2C- and B2B-customers, bookkeeping, insurance exchanges, logistical oversight, internal communications within the company (Finland + Europe) and with partners (manufacturers, delivery- and maintenance companies, etc) 
 
 **Yleisradio** 02/2021-04/2021, 06/2021-08/2021, 03/2022-12/2022 (part-time)
 
