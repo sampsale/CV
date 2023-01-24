@@ -5,7 +5,7 @@ Koulutus
 ---------
 
     
-:   **Haaga-Helia University of Applied Sciences, IT-Tradenomi**: 2016-2017, 2020-2022
+**Haaga-Helia University of Applied Sciences, IT-Tradenomi**: 2016-2017, 2020-2022
 
     Oleellista kurssien sisältöä
     1. Ohjelmoinnin perusteet (Java ja JS)

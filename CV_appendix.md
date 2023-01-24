@@ -5,7 +5,7 @@ Education
 ---------
 
     
-:   **Haaga-Helia University of Applied Sciences, Degree Programme in Business Information Technology**: 2016-2017, 2020-2022
+**Haaga-Helia University of Applied Sciences, Degree Programme in Business Information Technology**: 2016-2017, 2020-2022
 
     Relevant courses
     1. Orientation to Software Engineering (Java and JS)
@@ -83,7 +83,7 @@ Debian, basics
 
 ## Extra 
 
-* Special interests: APIt, big data, optimizing, databases.  
+* Special interests: APIs, big data, optimizing, databases
 
 * Human languages:
 
