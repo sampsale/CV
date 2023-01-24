@@ -45,7 +45,6 @@ Benefits officer  --
 Opening, sorting, and redirecting incoming applications and other mail
 
 **Verohallinto:** 06/2017-07/2017:
-Digitizer -- 
 Digitization of tax returns
 
 **Posti:** 12/2015, 03/2016, 06/2016-08/2016 (part-time):
@@ -99,7 +98,7 @@ Debian, basics
   <img src="images/spacelaunches.png" width="500" style="margin:100px"/>
   </li>
   <li><b>Weather-app:</b> React-native, Expo: Weather-app, that gives you the weather in your location or saved locations. Gives a push-notification at certain times, but sadly this feature is buggy at the moment. <a href="https://github.com/sampsale/WeatherApp">Link</a></li>
-  <li><b>Several school projects: </b><a href="https://github.com/sampsale">On my GitHub</a> you'll find several projects, that have been completed as part of a school assignment. Linux-servers, with meticulous documentation on setting up a server and purchasing a domain. PersonalTrainer app, built with React using MUI. VisitedCountries, built with Java with SpringBoot and Thymeleaft.</li>
+  <li><b>Several school projects: </b>On my <a href="https://github.com/sampsale">GitHub</a> you'll find several projects, that have been completed as part of a school assignment. Linux-servers, with meticulous documentation on setting up a server and purchasing a domain. PersonalTrainer app, built with React using MUI. VisitedCountries, built with Java with SpringBoot and Thymeleaft.</li>
   <li><b>Studied independently: </b><a href="https://github.com/sampsale/PythonCrashCourse">Python Crash Course</a>, <a href="https://fullstackopen.com/">FullStackOpen</a>(work in progress) and several random projects (web scraping, D3, etc). Most of my repos are hidden due to incompleteness or little to no documentation. 
   </li> 
 </ul>
