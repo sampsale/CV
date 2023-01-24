@@ -52,7 +52,7 @@ Mail Sorter --
 Digital and physical sorting of incoming mail
 
 **Valio:** 07/2013-08/2013, 03/2014-08/2014 ja 05/2015-08/2015:
-Process Worker --
+Process Manager --
 Oversight and maintenance of industrial machinery, logistics, quality control, documentation
 
 ## Techniques
