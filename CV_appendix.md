@@ -97,7 +97,7 @@ Debian, basics
   <li><b>Space Launches:</b> Javascript, HTML, CSS, Bootstrap:  Upcoming space launches and other information on space exploration; ISS-position on map (GoogleMaps API), people currently in space, search functions for several space related databases. Lots of JSON-data parsng and user interface considerations. Mobile friendly. <b>NB:</b> API-keys not on GitHub. <a href="https://github.com/sampsale/SpaceLaunches">Link</a>
   <img src="images/spacelaunches.png" width="500" style="margin:100px"/>
   </li>
-  <li><b>Guess the Year</b> JQuery, Bootstrap. App that gives you a series of photos from Finnish history and you'll have to guess what year they were taken. Link to repo <a href='https://github.com/sampsale/PhotoApp'>here</a> and to deployed app <a href='https://github.com/sampsale/PhotoApp'>here</a>.</li>
+  <li><b>Guess the Year:</b> JQuery, Bootstrap. App that gives you a series of photos from Finnish history and you'll have to guess what year they were taken. Link to repo <a href='https://github.com/sampsale/PhotoApp'>here</a> and to deployed app <a href='https://github.com/sampsale/PhotoApp'>here</a>.</li>
     <img src="images/photoapp.png" width="500" style="margin:100px"/>
   <li><b>Weather-app:</b> React-native, Expo: Weather-app, that gives you the weather in your location or saved locations. Gives a push-notification at certain times, but sadly this feature is buggy at the moment. <a href="https://github.com/sampsale/WeatherApp">Link</a></li>
   <li><b>Ukraine war archive:</b> Made with Django + Bootstrap for styling. Archive for 11 000 Ukraine war related articles collected from a Finnish newspaper, sorted by month. Not in a public repo since I don't own the articles.</li>
