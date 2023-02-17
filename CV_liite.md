@@ -97,6 +97,7 @@ Debian, perusteet
   <img src="images/spacelaunches.png" width="500" style="margin:100px"/>
   </li>
   <li><b>Arvaa vuosi</b> JQuery, Bootstrap. Sovellus joka näyttää sarjan kuvia ja pyytää arvaamaan niiden ottamisvuoden linkki repoon <a href='https://github.com/sampsale/PhotoApp'>tässä</a> ja sovellukseen <a href='https://github.com/sampsale/PhotoApp'>tässä</a>.</li>
+    <img src="images/photoapp.png" width="500" style="margin:100px"/>
   <li><b>Weather-app:</b> React-native, Expo: Sää-sovellus, joka ilmoittaa sään sijainnissasi tai tallentamissasi sijainneissa valinnan mukaan. Antaa tiettyihin kellonaikoihin push-notifikaation, mutta ikävä kyllä tämä toiminnallisuus on tällä hetkellä buginen. <a href="https://github.com/sampsale/WeatherApp">Link</a></li>
   <li><b>Ukrainan sodan arkisto:</b> Tehty Djangolla + Bootstrappia käytetty tyylittelyyn. Arkisto 11 000:sta Ukrainan sotaan liittyvästä artikkeleista. Kerätty yhdeltä suomalaiselta mediatalolta. Ei julkisessa jaossa, sillä en omista artikkeleita.</li>
   <li><b>Useita projekteja koulusta: </b><a href="https://github.com/sampsale">GitHubistani</a> löytyy useampi projekti, joita tehty koulutehtävinä: Linux-palvelimet kurssi, jossa tarkka raportointi palvelimen asentamisesta Linuxille ja domainin ostamisesta. PersonalTrainer app, joka tehty Reactia ja MUI:ta käyttäen. VisitedCountries, tehty Javalla, tekniikoina SpringBoot ja Thymeleaf. </li>

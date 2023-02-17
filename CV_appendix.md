@@ -98,6 +98,7 @@ Debian, basics
   <img src="images/spacelaunches.png" width="500" style="margin:100px"/>
   </li>
   <li><b>Guess the Year</b> JQuery, Bootstrap. App that gives you a series of photos from Finnish history and you'll have to guess what year they were taken. Link to repo <a href='https://github.com/sampsale/PhotoApp'>here</a> and to deployed app <a href='https://github.com/sampsale/PhotoApp'>here</a>.</li>
+    <img src="images/photoapp.png" width="500" style="margin:100px"/>
   <li><b>Weather-app:</b> React-native, Expo: Weather-app, that gives you the weather in your location or saved locations. Gives a push-notification at certain times, but sadly this feature is buggy at the moment. <a href="https://github.com/sampsale/WeatherApp">Link</a></li>
   <li><b>Ukraine war archive:</b> Made with Django + Bootstrap for styling. Archive for 11 000 Ukraine war related articles collected from a Finnish newspaper, sorted by month. Not in a public repo since I don't own the articles.</li>
   <li><b>Several school projects: </b>On my <a href="https://github.com/sampsale">GitHub</a> you'll find several projects, that have been completed as part of a school assignment. Linux-servers, with meticulous documentation on setting up a server and purchasing a domain. PersonalTrainer app, built with React using MUI. VisitedCountries, built with Java with SpringBoot and Thymeleaft.</li>
