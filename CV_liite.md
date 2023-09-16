@@ -82,7 +82,7 @@ Debian, perusteet
 
 ## Extra 
 
-* Erityiset kiinnostuksenkohteet: APIt, big data, optimointi, tietokannat.  
+* Erityiset kiinnostuksenkohteet: APIt, big data, optimointi, tietokannat, RPA  
 
 * Ihmiskielet:
 
@@ -94,6 +94,7 @@ Debian, perusteet
 ## Tehtyjä projekteja [GitHubissa](https://github.com/sampsale)
 <ul>
   <li><b>Space Launches:</b> Javascript, HTML, CSS, Bootstrap:  Tulevat avaruuslaukaisut ja muuta tietoa avaruudesta; ISS-sijainti kartalla (GoogleMaps API), avaruudessa olevat henkilöt, hakuja eri avaruusaiheisille asioille. Paljon datan käsittelyä JSON-muodossa ja käyttöliittymän tekemistä. Mobiiliystävällinen. <b>HUOM:</b> kaikki API-avaimet eivät ole tallennettu GitHubiin. <a href="https://github.com/sampsale/SpaceLaunches">Link</a>
+  
   <img src="images/spacelaunches.png" width="500" style="margin:100px"/>
   </li>
   <li><b>Arvaa vuosi:</b> JQuery, Bootstrap. Sovellus joka näyttää sarjan kuvia ja pyytää arvaamaan niiden ottamisvuoden. Linkki repoon <a href='https://github.com/sampsale/PhotoApp'>tässä</a> ja sovellukseen <a href='https://github.com/sampsale/PhotoApp'>tässä</a>.</li>

@@ -83,7 +83,7 @@ Debian, basics
 
 ## Extra 
 
-* Special interests: APIs, big data, optimizing, databases
+* Special interests: APIs, big data, optimizing, databases RPA
 
 * Human languages:
 
@@ -94,7 +94,9 @@ Debian, basics
 
 ## Projects on [Github](https://github.com/sampsale)
 <ul>
-  <li><b>Space Launches:</b> Javascript, HTML, CSS, Bootstrap:  Upcoming space launches and other information on space exploration; ISS-position on map (GoogleMaps API), people currently in space, search functions for several space related databases. Lots of JSON-data parsng and user interface considerations. Mobile friendly. <b>NB:</b> API-keys not on GitHub. <a href="https://github.com/sampsale/SpaceLaunches">Link</a>
+  <li><b>Space Launches:</b> Javascript, HTML, CSS, Bootstrap:  Upcoming space launches and other information on space exploration; ISS-position on map (GoogleMaps API), people currently in space, search functions for several space related databases. Lots of JSON-data parsng and user interface considerations. Mobile friendly. <b>NB:</b> API-keys not on GitHub. 
+  <a href="https://github.com/sampsale/SpaceLaunches">Link</a>
+  
   <img src="images/spacelaunches.png" width="500" style="margin:100px"/>
   </li>
   <li><b>Guess the Year:</b> JQuery, Bootstrap. App that gives you a series of photos from Finnish history and you'll have to guess what year they were taken. Link to repo <a href='https://github.com/sampsale/PhotoApp'>here</a> and to deployed app <a href='https://github.com/sampsale/PhotoApp'>here</a>.</li>
