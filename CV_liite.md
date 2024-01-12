@@ -99,7 +99,7 @@ Airflow (DAG-hallinta), Hive, Impala, Hadoop-ekosysteemi
 
 ## Tehtyjä projekteja [GitHubissa](https://github.com/sampsale)
 <ul>
-  <li><b>Arvaa vuosi:</b> JQuery, Bootstrap. Sovellus joka näyttää sarjan kuvia ja pyytää arvaamaan niiden ottamisvuoden. Projekti alkoi "harrasteprojektina", mutta Yleisradio oli kiinnostunut sen ostamisesta. Linkki deployattuun sovellukseen <a href='https://yle.fi/aihe/a/20-10004793'>tässä</a>. Lähdekoodin omistaa nykyään Yleisradio, mutta sovellus on kokonaan tekemäni, lukuun ottamatta sisältöä (Kuvat ja kuvatekstit).
+  <li><b>Arvaa vuosi:</b> JQuery, Bootstrap. Sovellus joka näyttää sarjan kuvia ja pyytää arvaamaan niiden ottamisvuoden. Projekti alkoi "harrasteprojektina", mutta Yleisradio oli kiinnostunut sen ostamisesta. Linkki deployattuun sovellukseen <a href='https://yle.fi/aihe/a/20-10004793'>tässä</a>. Lähdekoodin omistaa nykyään Yleisradio, mutta sovellus on kokonaan tekemäni, lukuun ottamatta ohjelmointiin liittymätöntä sisältöä (Kuvat ja kuvatekstit).
   </li>
     <img src="images/photoapp.png" width="500" style="margin:100px"/>
   <li><b>Space Launches:</b> Javascript, HTML, CSS, Bootstrap:  Tulevat avaruuslaukaisut ja muuta tietoa avaruudesta; ISS-sijainti kartalla (GoogleMaps API), avaruudessa olevat henkilöt, hakuja eri avaruusaiheisille asioille. Paljon datan käsittelyä JSON-muodossa ja käyttöliittymän tekemistä. Mobiiliystävällinen. <b>HUOM:</b> kaikki API-avaimet eivät ole tallennettu GitHubiin. <a href="https://github.com/sampsale/SpaceLaunches">Link</a>
