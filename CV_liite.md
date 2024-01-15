@@ -27,8 +27,8 @@ Koulutus
 
 ## Työkokemus
 
-**Kansaneläkelaitos:** 05/2023-
-Data Engineer --
+**Kansaneläkelaitos:** Data Engineer 05/2023-
+
 Kelan Kanta-datan jalostamista ja kehittämistä loppukäyttöön. Loppukäyttäjänä toimii yleensä THL tai muut tutkimukselliset organisaatiot. Työ on big datan käsittelyä, jossa erilaisia raaka-asiakirjoja jalostetaan, parsitaan ja muuten saatetaan helposti käsiteltävään muotoon. Työ vaatii hyvää SQL-kyselykielen ja Pythonin hallintaa, sekä moninaisten tietojärjestelmien yhteensovittamista. Käytössä olevia työkaluja muun muuassa erilaiset Apache Softwaren järjestelmät, kuten Hadoop-ekosysteemi, klusterilaskenta, dataframien monipuolinen käyttö, sekä tietysti natiivi-Python ja lukuisia sen kirjastoja.
 
 **Gigantti:** 08/2017-09/2019
