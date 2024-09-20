@@ -27,6 +27,9 @@ Education
 
 ## Work experience
 
+**Kansaneläkelaitos** Data Engineer 05/2023-
+
+Processing and developing Kanta data for end use. The end users are typically institutions like THL (Finnish Institute for Health and Welfare) or other research organizations. The work involves handling big data, where various raw documents are processed, parsed, and otherwise transformed into a format that is easy to handle. The job requires strong proficiency in SQL query language and Python, as well as integrating various information systems. The tools in use include various Apache Software systems such as the Hadoop ecosystem, cluster computing, extensive use of data frames, and, of course, native Python along with numerous libraries.
 
 **Gigantti** 08/2017-09/2019
 
@@ -57,31 +60,32 @@ Oversight and maintenance of industrial machinery, logistics, quality control, d
 
 ## Techniques
 
-**JavaScript:**
-Proficient. Techniques: several small libraries, D3, React
+**JavaScript**
+Fluent. Techniques: multiple small libraries, D3, React
 
-**HTML:** 
-Proficient
+**HTML**
+Fluent
 
-**CSS:**
-Basics. Techniques: BootStrap
+**CSS**
+Fluent
 
-**SQL:**
-Basics
+**SQL**
+Fluent
 
-**Python:** 
-Proficient. Techniques: several small libraries, Django, Pygame, Matplotlib
+**Python**
+Fluent. Techniques: multiple libraries and frameworks. Specialized in frameworks related to data parsing and processing
 
-**Java:**
-Basics
+**Java**
+Basic knowledge
 
-**Git:**
-Basics
+**Git**
+Fluent
 
-**Linux:**
-Debian, basics
+**Linux**
+Debian & Ubuntu; fluent
 
-## Extra 
+Apache:
+Airflow (DAG management), Hive, Impala, Hadoop ecosystem
 
 * Special interests: APIs, big data, optimizing, databases RPA
 
@@ -94,9 +98,9 @@ Debian, basics
 
 ## Projects on [Github](https://github.com/sampsale)
 <ul>
+  <li><b>Guess the Year:</b> JQuery, Bootstrap. An application that displays a series of images and asks the user to guess the year they were taken. The project started as a "hobby project," but the Finnish Broadcasting Company (Yleisradio) became interested in purchasing it. Link to the deployed application <a href='https://yle.fi/aihe/a/20-10004793'>here</a>. The source code is now owned by Yleisradio, but the application is entirely my creation, excluding the non-programming content (images and captions).</li> <img src="images/photoapp.png" width="500" style="margin:100px"/>
   <li><b>Space Launches:</b> Javascript, HTML, CSS, Bootstrap:  Upcoming space launches and other information on space exploration; ISS-position on map (GoogleMaps API), people currently in space, search functions for several space related databases. Lots of JSON-data parsng and user interface considerations. Mobile friendly. <b>NB:</b> API-keys not on GitHub. 
   <a href="https://github.com/sampsale/SpaceLaunches">Link</a>
-  
   <img src="images/spacelaunches.png" width="500" style="margin:100px"/>
   </li>
   <li><b>Guess the Year:</b> JQuery, Bootstrap. App that gives you a series of photos from Finnish history and you'll have to guess what year they were taken. Link to repo <a href='https://github.com/sampsale/PhotoApp'>here</a> and to deployed app <a href='https://github.com/sampsale/PhotoApp'>here</a>.</li>
