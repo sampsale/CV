@@ -87,6 +87,8 @@ Debian & Ubuntu; fluent
 Apache:
 Airflow (DAG management), Hive, Impala, Hadoop ecosystem
 
+## Extra 
+
 * Special interests: APIs, big data, optimizing, databases RPA
 
 * Human languages:
