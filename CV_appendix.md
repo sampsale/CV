@@ -29,7 +29,7 @@ Education
 
 **Kansaneläkelaitos** Data Engineer 05/2023-
 
-Processing and developing Kanta data for end use. The end users are typically institutions like THL (Finnish Institute for Health and Welfare) or other research organizations. The work involves handling big data, where various raw documents are processed, parsed, and otherwise transformed into a format that is easy to handle. The job requires strong proficiency in SQL query language and Python, as well as integrating various information systems. The tools in use include various Apache Software systems such as the Hadoop ecosystem, cluster computing, extensive use of data frames, and, of course, native Python along with numerous libraries.
+Processing and developing Kanta data for end use. The end users are typically institutions like THL (Finnish Institute for Health and Welfare) or other research organizations. The work involves handling big data, where various raw documents are processed, parsed, and otherwise transformed into a format that is easy to handle. The job requires strong proficiency in SQL query language and Python, as well as integrating various information systems. The tools in use include various Apache Software systems such as the Hadoop ecosystem, cluster computing, extensive use of dataframes, and, of course, native Python along with numerous libraries.
 
 **Gigantti** 08/2017-09/2019
 
@@ -73,7 +73,7 @@ Fluent
 Fluent
 
 **Python**
-Fluent. Techniques: multiple libraries and frameworks. Specialized in frameworks related to data parsing and processing
+Fluent. Techniques: multiple libraries and frameworks. Specialized in frameworks related to data parsing and processing. Primary tool: PySpark
 
 **Java**
 Basic knowledge
