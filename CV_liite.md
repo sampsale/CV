@@ -90,6 +90,8 @@ Airflow (DAG-hallinta), Hive, Impala, Hadoop-ekosysteemi
 
 * Erityiset kiinnostuksenkohteet: APIt, big data, optimointi, tietokannat, RPA  
 
+* AI-ohjelmien häpeämätön käyttäjä (ChatGPT, GitHub Copilot jne.)
+
 * Ihmiskielet:
 
      * Suomi (äidinkieli) 

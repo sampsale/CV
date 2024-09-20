@@ -91,6 +91,8 @@ Airflow (DAG management), Hive, Impala, Hadoop ecosystem
 
 * Special interests: APIs, big data, optimizing, databases RPA
 
+* Shameless user of AI programs (ChatGPT, Github Autopilot, etc)
+
 * Human languages:
 
      * Finnish (native) 
